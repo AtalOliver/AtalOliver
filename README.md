@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou @AtalOliver
+- 🌱 Sou nova no universo do desenvolvimento de softwere e iniciei meus estudos com HTML
+- 📫 Entre em contato comigo através do whatapp 71 98141-1175
