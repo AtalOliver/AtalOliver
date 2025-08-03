@@ -99,22 +99,3 @@ Sou desenvolvedora web em transição de carreira, movida pela curiosidade e pai
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="" 
-  />
-
-</p>
