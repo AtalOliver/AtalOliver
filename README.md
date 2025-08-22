@@ -3,7 +3,7 @@
 
 **`Desenvolvedora Web`**
 
-Sou desenvolvedora web em transição de carreira, movida pela curiosidade e paixão por aprender novas tecnologias e suas aplicações práticas. Desde 2014 atuo como microempreendedora no ramo gráfico, o que me proporcionou uma visão ampla sobre criatividade, atendimento ao cliente e gestão de negócios — habilidades que levo comigo para o universo tech. Atualmente, estou focada em construir soluções digitais funcionais, acessíveis e que gerem impacto real, enquanto continuo a expandir meu repertório como profissional da área de desenvolvimento.
+Sou desenvolvedora web e Design Gráfica, movida pela curiosidade e paixão por aprender novas tecnologias e suas aplicações práticas. Desde 2014 atuo como microempreendedora no ramo gráfico, o que me proporcionou uma visão ampla sobre criatividade, atendimento ao cliente e gestão de negócios — habilidades que levo comigo para o universo tech. Atualmente, estou focada em construir soluções digitais funcionais, acessíveis e que gerem impacto real, enquanto continuo a expandir meu repertório como profissional da área de desenvolvimento.
 
 🌍Apaixonada por tecnologia, pessoas e novas experiências                 
 📫 Entre em contato comigo através do whatapp 71 98141-1175
@@ -38,22 +38,7 @@ Sou desenvolvedora web em transição de carreira, movida pela curiosidade e pai
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -63,14 +48,7 @@ Sou desenvolvedora web em transição de carreira, movida pela curiosidade e pai
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JQuery" 
